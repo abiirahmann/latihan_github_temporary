@@ -6,6 +6,7 @@
 <body>
 <?php
 echo "Saya suka belajar PHP";
+echo "tapi bohong";
 ?>
 </body>
 </html>

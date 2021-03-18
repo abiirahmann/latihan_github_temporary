@@ -20,6 +20,9 @@
         body{
             background-color: ghostwhite;
         }
+        .navbar{
+	        background: rgba(0,0,0,0.7);
+        }
     </style>
     <title>Hello, world!</title>
   </head>
